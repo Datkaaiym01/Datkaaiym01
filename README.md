@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Datkaaiym01
-- 👀 I’m interested in baking, read.
+- 👀 I’m interested in baking, read and .
 - 🌱 I’m currently learning more about Django and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
